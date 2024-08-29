@@ -48,6 +48,7 @@ improving the Swagger UI and adding new features to make API documentation more 
   <img width="49%" alt="스크린샷 2024-08-28 오후 10 54 36" src="https://github.com/user-attachments/assets/101098d5-8b3d-4886-a4c4-8e00006053e2">
   <img width="49%" alt="스크린샷 2024-08-28 오후 10 54 12" src="https://github.com/user-attachments/assets/a007719b-be2b-41e5-ba56-fa1871bcfed3"> 
   </p>
+  
 ## How to Use
 - You can find detailed information on requirements and installation in the [Repository of Spring Boot Library](https://github.com/Swaggy-Swagger/swagger-custom-java)
 
