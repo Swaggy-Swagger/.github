@@ -1,3 +1,6 @@
+
+<img width="1497" alt="스크린샷 2024-08-28 오후 8 15 40" src="https://github.com/user-attachments/assets/bf668c9b-6c7f-4c9b-b1f0-6f883fe7699e">
+
 # Swaggy Swagger
 Demo Video: [Watch on YouTube](https://www.youtube.com/watch?v=oD8ShZGQrqo)
 
@@ -33,25 +36,28 @@ improving the Swagger UI and adding new features to make API documentation more 
   <img width="49%" alt="스크린샷 2024-08-28 오후 10 54 12" src="https://github.com/user-attachments/assets/9c6e1e6f-4949-4f05-a695-10332ce32720"> 
   </p>
   <img width="100%" src = "https://github.com/user-attachments/assets/bf1daf8d-17ca-411a-a4a4-3c2b4f1139c9">
-<br/>
-- You can also delete red dot when you check changes!
-  <img width="100%" src = "https://github.com/user-attachments/assets/4b158a0c-9a46-4861-92c7-134083d5e83c">
 
-### Enjoy Swaggy Swagger❗❗❗
+- After checking changes, the red dot disappears (it reappears upon refreshing)
+  <img width="100%" src = "https://github.com/user-attachments/assets/4b158a0c-9a46-4861-92c7-134083d5e83c">
+  
+### API Sorting By Line Number
+- User-Defined Sorting: Swaggy-Swagger allows APIs to be sorted based on the line numbers in the code. This custom sorting improves readability and reflects the developer’s intent.
+
+### Enjoy Swaggy Swagger 😎
   <p>
   <img width="49%" alt="스크린샷 2024-08-28 오후 10 54 36" src="https://github.com/user-attachments/assets/101098d5-8b3d-4886-a4c4-8e00006053e2">
   <img width="49%" alt="스크린샷 2024-08-28 오후 10 54 12" src="https://github.com/user-attachments/assets/a007719b-be2b-41e5-ba56-fa1871bcfed3"> 
   </p>
-
-
-### API Sorting By Line Number
-- User-Defined Sorting: Swaggy-Swagger allows APIs to be sorted based on the line numbers in the code. This custom sorting improves readability and reflects the developer’s intent.
-
 ## How to Use
 - You can find detailed information on requirements and installation in the [Repository of Spring Boot Library](https://github.com/Swaggy-Swagger/swagger-custom-java)
 
 ## How to Contribute
 
 ## License
+## License
+**Swaggy-Swagger** is licensed under the Apache License, Version 2.0.  
+See the [LICENSE](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/main/LICENSE) file for more details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSwaggy-Swagger%2Fswagger-custom-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSwaggy-Swagger%2Fswagger-custom-java?ref=badge_large)
 
 ## Contact
