@@ -56,6 +56,7 @@ improving the Swagger UI and adding new features to make API documentation more 
   <img width="100%" src = "https://github.com/user-attachments/assets/bf1daf8d-17ca-411a-a4a4-3c2b4f1139c9">
 
 - After checking changes, the red dot disappears (it reappears upon refreshing)
+  
   <img width="100%" src = "https://github.com/user-attachments/assets/4b158a0c-9a46-4861-92c7-134083d5e83c">
   
 ### API Sorting By Line Number
@@ -72,8 +73,8 @@ improving the Swagger UI and adding new features to make API documentation more 
 
 ## Ways to contribute
 
-There are several ways you can contribute to Swaggy-Swagger!  
-See [CONTRIBUTING.md](CONTRIBUTING.md). for details. 
+We always welcome your contributions.<br/>
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details. 
 
 ## Contributors
 
