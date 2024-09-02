@@ -1,8 +1,23 @@
 
-<img width="1497" alt="스크린샷 2024-08-28 오후 8 15 40" src="https://github.com/user-attachments/assets/bf668c9b-6c7f-4c9b-b1f0-6f883fe7699e">
-
 # Swaggy Swagger
+<br/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/98d594cd-1518-49aa-8f61-3aae42c95e6f" width="500" alt="Swaggy-Swagger-Logo" />
+</p>
+<br/>
+<p align="center">
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSwaggy-Swagger%2Fswagger-custom-java?ref=badge_shield" target="_blank"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSwaggy-Swagger%2Fswagger-custom-java.svg?type=shield&issueType=license" alt="Fossa License Scan" /></a>
+  <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/v/release/Swaggy-Swagger/swagger-custom-java?logo=github" alt="github release" /></a>
+  <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/release-date/Swaggy-Swagger/swagger-custom-java?color=blue&logo=github" alt="github last release date" /></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/Swaggy-Swagger/swagger-custom-java?logo=github&color=blue" alt="github License" /></a>
+  <a href="https://github.com/Swaggy-Swagger/swagger-custom-java/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors-anon/Swaggy-Swagger/swagger-custom-java?logo=github&color=blue" alt="github contributors" /></a>
+  <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/stars/Swaggy-Swagger/swagger-custom-java?logo=github" alt="github stars" /></a>
+  <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/discussions/Swaggy-Swagger/swagger-custom-java?logo=github&color=blue" alt="github discussions" /></a>
+</p>
+</br>
+
 Demo Video: [Watch on YouTube](https://www.youtube.com/watch?v=oD8ShZGQrqo)
+</br>
 
 ## Overview
 **Swaggy-Swagger** is a library designed to enhance the functionality 
