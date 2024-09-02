@@ -52,9 +52,21 @@ improving the Swagger UI and adding new features to make API documentation more 
 ## How to Use
 - You can find detailed information on requirements and installation in the [Repository of Spring Boot Library](https://github.com/Swaggy-Swagger/swagger-custom-java)
 
-## How to Contribute
+## Ways to contribute
 
-## License
+There are several ways you can contribute to Swaggy-Swagger!
+
+## Contributors
+
+Thank you to everyone who contributed to our project.
+
+<a href="https://github.com/Swaggy-Swagger/swagger-custom-java/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Swaggy-Swagger/swagger-custom-java" />
+</a>
+
+_<div align=right>Made with <a href="https://contrib.rocks">contrib.rocks</a></div>_
+
+
 ## License
 **Swaggy-Swagger** is licensed under the Apache License, Version 2.0.  
 See the [LICENSE](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/main/LICENSE) file for more details.
