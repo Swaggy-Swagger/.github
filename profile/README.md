@@ -72,7 +72,7 @@ improving the Swagger UI and adding new features to make API documentation more 
 
 ## Ways to contribute
 
-There are several ways you can contribute to Swaggy-Swagger!
+There are several ways you can contribute to Swaggy-Swagger!  
 See [CONTRIBUTING.md](CONTRIBUTING.md). for details. 
 
 ## Contributors
