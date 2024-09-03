@@ -19,7 +19,6 @@
 </p>
 <br/>
 
-Demo Video: <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
 
 <br/>
 
@@ -28,7 +27,15 @@ Demo Video: <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="http
 and user experience of the popular API documentation tool, Swagger.  
 
 This project addresses common pain points faced by developers, 
-improving the Swagger UI and adding new features to make API documentation more intuitive and effective.
+improving the Swagger UI and adding new features to make API documentation more intuitive and effective.</br>
+
+
+#### Demo Video
+<div>
+<a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
+</div>
+
+
 
 ## Features
 ### Enhanced UI/UX
