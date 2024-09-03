@@ -73,7 +73,7 @@ improving the Swagger UI and adding new features to make API documentation more 
 
 ## Ways to contribute
 
-We always welcome your contributions.  
+We always welcome your contributions! 
 * If you would like to contribute to the frontend (UI), you can see [this link](https://github.com/Swaggy-Swagger/swaggy-ui?tab=readme-ov-file#ways-to-contribute) for more details.  
 
 
