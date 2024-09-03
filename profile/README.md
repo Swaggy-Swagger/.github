@@ -74,7 +74,8 @@ improving the Swagger UI and adding new features to make API documentation more 
 ## Ways to contribute
 
 We always welcome your contributions.<br/>
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details. 
+If you would like to contribute to the frontend (UI), you can see [this link](https://github.com/Swaggy-Swagger/swaggy-ui?tab=readme-ov-file#ways-to-contribute) for more details.  
+Else, if you want to contribute to the backend (server-side), please refer to [this link](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/main/CONTRIBUTING.md). 
 
 ## Contributors
 
