@@ -17,10 +17,11 @@
   <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/stars/Swaggy-Swagger/swagger-custom-java?logo=github" alt="github stars" /></a>
   <a href="https://github.com/Swaggy-Swagger/swagger-custom-java"><img src="https://img.shields.io/github/discussions/Swaggy-Swagger/swagger-custom-java?logo=github&color=blue" alt="github discussions" /></a>
 </p>
-</br>
+<br/>
 
-Demo Video: [Watch on YouTube](https://www.youtube.com/watch?v=oD8ShZGQrqo)
-</br>
+Demo Video: <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
+
+<br/>
 
 ## Overview
 **Swaggy-Swagger** is a library designed to enhance the functionality 
