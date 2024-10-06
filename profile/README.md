@@ -36,7 +36,7 @@ improving the Swagger UI and adding new features to make API documentation more 
 </div>
 
 
-#### [ReadMe in Korean 한국어 버전 보기](https://github.com/Swaggy-Swagger/.github/tree/main/profile#%EA%B0%9C%EC%9A%94)
+#### [ReadMe in Korean 한국어 버전 보기](https://github.com/Swaggy-Swagger#%EA%B0%9C%EC%9A%94)
 
 
 ## Features
@@ -124,7 +124,7 @@ See the [LICENSE](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/mai
 <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
 </div>
 
-#### [ReadMe in English 영어 버전 보기](https://github.com/Swaggy-Swagger/.github/tree/main/profile#overview)
+#### [ReadMe in English 영어 버전 보기](https://github.com/Swaggy-Swagger#overview)
 
 ## 기능 소개
 ### 향상된 UI/UX
