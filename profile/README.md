@@ -36,6 +36,9 @@ improving the Swagger UI and adding new features to make API documentation more 
 </div>
 
 
+#### [ReadMe in Korean 한국어 버전 보기](https://github.com/Swaggy-Swagger/.github/tree/main/profile#%EA%B0%9C%EC%9A%94)
+
+
 ## Features
 ### Enhanced UI/UX
 #### Sidebar Navigation
@@ -110,6 +113,7 @@ See the [LICENSE](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/mai
 ## Contact
 <a href="mailto:clcc001@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=clcc001@naver.com"/></a>
 
+<br/>
 
 ## 개요
 **Swaggy-Swagger**는 인기 있는 API 문서화 도구인 Swagger의 기능과 사용자 경험을 향상시키기 위해 설계된 라이브러리입니다.  
@@ -120,6 +124,7 @@ See the [LICENSE](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/mai
 <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
 </div>
 
+#### [ReadMe in English 영어 버전 보기](https://github.com/Swaggy-Swagger/.github/tree/main/profile#overview)
 
 ## 기능 소개
 ### 향상된 UI/UX
