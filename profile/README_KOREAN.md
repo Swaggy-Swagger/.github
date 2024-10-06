@@ -21,6 +21,7 @@
 
 <br/>
 
+[English](https://github.com/Swaggy-Swagger/.github/blob/main/profile/README.md) | 한국어 
 ## 개요
 **Swaggy-Swagger**는 인기 있는 API 문서화 도구인 Swagger의 기능과 사용자 경험을 향상시키기 위해 설계된 라이브러리입니다.  
 이 프로젝트는 개발자들이 자주 겪는 문제점을 해결하며, Swagger UI를 개선하고, 보다 직관적이고 효과적인 API 문서를 만들기 위한 새로운 기능을 추가합니다.
@@ -30,7 +31,6 @@
 <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
 </div>
 
-#### [ReadMe in English 영어 버전 보기](https://github.com/Swaggy-Swagger/.github/blob/main/profile/README.md)
 
 ## 기능 소개
 ### 향상된 UI/UX
