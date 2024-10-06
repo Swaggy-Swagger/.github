@@ -22,6 +22,7 @@
 
 <br/>
 
+English | [한국어](https://github.com/Swaggy-Swagger/.github/blob/main/profile/README_KOREAN.md)
 ## Overview
 **Swaggy-Swagger** is a library designed to enhance the functionality 
 and user experience of the popular API documentation tool, Swagger.  
@@ -34,9 +35,6 @@ improving the Swagger UI and adding new features to make API documentation more 
 <div>
 <a href="https://www.youtube.com/watch?v=oD8ShZGQrqo"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/watch?v=oD8ShZGQrqo"/></a>
 </div>
-
-
-#### [ReadMe in Korean 한국어 버전 보기](https://github.com/Swaggy-Swagger/.github/blob/main/profile/README_KOREAN.md)
 
 
 ## Features
