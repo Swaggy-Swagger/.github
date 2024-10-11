@@ -86,7 +86,7 @@
 
 
 ## 사용 방법
-- 요구사항과 사용방법에 대한 보다 더 상세한 정보는 [Repository of Spring Boot Library](https://github.com/Swaggy-Swagger/swagger-custom-java)에서 확인해주세요.
+- 요구사항과 사용방법에 대한 보다 더 상세한 정보는 [Repository of Spring Boot Library](https://github.com/Swaggy-Swagger/swagger-custom-java/blob/main/ReadMe_Korean.md)에서 확인해주세요.
 
 
 ## 컨트리뷰트하는 방법
