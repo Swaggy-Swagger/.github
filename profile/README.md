@@ -2,8 +2,13 @@
 # Swaggy Swagger
 <br/>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1650bb7d-cdf0-485c-8cc8-9617d8ea7472" width="500" alt="Swaggy-Swagger-Logo" />
+<img src="https://github.com/user-attachments/assets/b3c3a16d-43aa-4689-8857-dab31f75f601" width="300" alt="Swaggy-Swagger-Logo" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9e270e2-56b8-4eaa-b1e7-c788a0bf5a64" alt="Swaggy Swagger" />
+</p>
+
+
 <br/>
 <p align="center">
   <a href="https://jitpack.io/#Swaggy-Swagger/swagger-custom-java" target="_blank"><img src="https://jitpack.io/v/Swaggy-Swagger/swagger-custom-java.svg" alt="Jitpack Release"/></a>
