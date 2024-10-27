@@ -1,11 +1,12 @@
 
 # Swaggy Swagger
 <br/>
+<br/>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b3c3a16d-43aa-4689-8857-dab31f75f601" width="300" alt="Swaggy-Swagger-Logo" />
+<img src="https://github.com/user-attachments/assets/b3c3a16d-43aa-4689-8857-dab31f75f601" width="150" alt="Swaggy-Swagger-Logo" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/13513534-6217-4c10-abdc-cd228fcca076" width="400" alt="Swaggy Swagger" />
+  <img src="https://github.com/user-attachments/assets/13513534-6217-4c10-abdc-cd228fcca076" width="300" alt="Swaggy Swagger" />
 </p>
 
 
